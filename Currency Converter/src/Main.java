@@ -10,7 +10,7 @@ public class Main {
         Currency SwissFrank = new Currency(, , "CHF");
         Currency HongKongDollar = new Currency(, , );
 
-        //Test Comment
+        //Test Comment 2
 
         //prompts user to enter their type of currency and amount (will use the isoAlpha attribute.
         //example: if user has 15 dollars of U.S. Currency, they'll enter "15 USD"
